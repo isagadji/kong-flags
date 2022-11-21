@@ -1,4 +1,4 @@
-module github.com/isagadji/kong-flags
+module github.com/isagadji/kong-flags.git
 
 go 1.19
 
